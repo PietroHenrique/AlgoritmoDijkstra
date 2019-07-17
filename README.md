@@ -1,2 +1,1 @@
 # AlgoritmoDijkstra
-AlgoritmoDijkstraPO
